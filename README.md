@@ -26,6 +26,7 @@ Here, Qtt & Qt+1t+1 are present state & next state respectively. So, T flip-flop
 
 ![image](https://github.com/naavaneetha/T-FLIPFLOP-POSEDGE/assets/154305477/cdd7fb32-539f-4b66-bb8d-f305a153c886)
 
+
  
 From the above characteristic table, we can directly write the next state equation as Q(t+1)=T′Q(t)+TQ(t)′ ⇒Q(t+1)=T⊕Q(t)
 
