@@ -62,7 +62,8 @@ From the above characteristic table, we can directly write the next state equati
 ## TIMING DIGRAMS FOR FLIP FLOPS
 
 
-![T FF WAVEFORM](https://github.com/user-attachments/assets/1c3c9f08-662f-4750-a1fa-c11565659f28)
+![WhatsApp Image 2024-12-26 at 7 37 00 PM](https://github.com/user-attachments/assets/4989f601-21c5-4170-bf5c-2699df75dc30)
+
 
 
 ## RESULTS
